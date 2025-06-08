@@ -206,8 +206,4 @@ Browser Extensions: Disable extensions like AdBlock that may interfere with HTML
 
 Submission
 
-Repository: [GitHub Repository URL]
-Deadline: Submitted by June 8, 2025, 23:34 (+05).
-Contact: For questions, reach out via Telegram at +998 99 971 83 83 with the subject "Weather Widget Question".
 
-# weather
